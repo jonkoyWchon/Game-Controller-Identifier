@@ -1,0 +1,6 @@
+# Install compatible versions for your Python and operating system.
+tensorflow
+tf-keras
+opencv-python
+numpy
+pyserial
